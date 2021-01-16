@@ -26,8 +26,25 @@ This course will introduce you to declarative statements, sets, and operations w
 
 
 ### Calculus Part 1
+
+
+This course will introduce you to limits, intervals, differentiability, continuity, derivatives, antiderivatives, rules, trigonometric functions, inverse trigonometric functions, optimizations, and sums. It will be a huge help to you, once you dive into the later semesters of your studies and will help you understand most of the [Mathematics](http://laconicml.com/mathematical-skills-data-scientist/) behind Machine Learning, Deep Learning, etc. Here we will suggest you take look at this list of 86 videos. Yes, it looks long, but the videos are quite short and well explained.
+
+[Calculus Part 1 Playlist](https://www.youtube.com/playlist?list=PLl-gb0E4MII1ml6mys-RXoQ0O3GfwBPVM)
+
+
 ### Introduction To Computer Science And Programming
+
+This course will introduce you to computer science and programming from a theoretical view. It is very important for every beginner to have a visual representation in its mind about most of the concepts of computer science and programming. That way, it can understand their complexity and unlock its imagination and creativity and use the full power of computer science and programming while respecting their laws. Here we recommend you this video:
+
+[View Lecture On YouTube](https://www.youtube.com/embed/zOjov-2OZ0E)
+
+
 ### Intro To Python Programming
+
+This course is an introduction to Python programming. Easily one of the most popular programming languages in the world, [Python](http://laconicml.com/implement-bayesian-regression-python/) is widely used by many people who work in some sort of IT-related field. It is easy to understand, use has tons of libraries and it has huge community support. It is used in Web Development (Django, Flask), Machine Learning (Scikit-learn, NumPy, pandas, TensorFlow), etc. You are going to use Python a lot, so for this course, we are going to keep it simple by recommending only one video:
+
+[View Lecture On YouTube](https://www.youtube.com/embed/rfscVS0vtbw)
 
 
 ## Semester2
