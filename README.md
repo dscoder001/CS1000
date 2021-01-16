@@ -1,6 +1,6 @@
 # CS1000
 
-## semester1
+## Semester1
 
 
 ### Structured Programming (Programming In C)
@@ -15,16 +15,26 @@ This course will introduce you to [Programming](http://laconicml.com/machine-lea
          
                           
 ### Discrete Mathematics Part 1
+
+
+This course will introduce you to declarative statements, sets, and operations with sets, laws, logic, quantifiers, functions, proofs, sequences, and summation. For this course, and it’s a second part which we’ve put in Year 2, we are going to use the same playlist of 60 YouTube videos, but we are going to split it, 34 videos for part 1 (1-34) and 26 videos for the part 2 (35-60).
+
+[Discrete Math Playlist (Videos: 1-34)](https://www.youtube.com/playlist?list=PLl-gb0E4MII28GykmtuBXNUNoej-vY5Rz)
+
+[View Lecture On YouTube](https://www.youtube.com/embed/A3Ffwsnad0k)
+
+
+
 ### Calculus Part 1
 ### Introduction To Computer Science And Programming
 ### Intro To Python Programming
 
 
-## semester2
+## Semester2
 
-## semester3
-## semester4
-## semester5
-## semester6
-## semester7
-## semester8
+## Semester3
+## Semester4
+## Semester5
+## Semester6
+## Semester7
+## Semester8
