@@ -4,7 +4,7 @@
 int main()
 {
     int grade;
-    printf("Enter your :");
+    printf("Enter your grade:");
     scanf("%c", &grade);
     printf("Your grade is %c",grade);
 
