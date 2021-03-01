@@ -3,12 +3,13 @@
 
 int main()
 {
-      sayHi();
+      sayHi( "mike", 40);
+      sayHi( "yom", 34);
+      sayHi( "bheem", 46);
 
-      return 0;
 }
 
 
-    void sayHi(){
-        printf("hello user") ;
+    void sayHi( char name[], int age){
+        printf("hello %s,you are %d\n", name, age) ;
 }
