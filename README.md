@@ -49,12 +49,32 @@ This course is an introduction to Python programming. Easily one of the most pop
 
 ## Semester2
 
-###Calculus part 2
+### Calculus part 2
 
 Here is the second part of the Calculus. Here you are going to learn about integrals, series, tests, polar coordinates, polar graphs, etc. For this course, we are going to recommend you this playlist of 64 videos. It looks like a lot, but the videos are well explained and are quite short, so you feel like you’ve covered a lot of material
 
 
+[Calculus part 2 playlist](https://www.youtube.com/playlist?list=PLl-gb0E4MII1OxI-BbNkEhuwPHcKxuPSg)
 
+### Discrete mathematics part 2
+
+This course will introduce you to matrices, graphs, searching algorithms, sorting algorithms, algorithms complexity, introduction to probability, combinatorics, variations, and permutations.
+
+This is the second part of the Discrete Mathematics, and as we’ve mentioned in the first part, we are going to use the same playlist of 60 videos, but here we are going to watch starting from the 35th up to the 60th video.
+
+[Discrete math playlist (videos: 35-60)](https://www.youtube.com/playlist?list=PLl-gb0E4MII28GykmtuBXNUNoej-vY5Rz)
+
+### Introduction to c++ and object-oriented programming
+
+This course will introduce me to C++, starting from the basics, up to Object-Oriented Programming (OOP). OOP is one of the main programming paradigms, and probably the most used.
+
+Most of the applications that you have on your mobile phone or access from the browser are programmed following this paradigm.
+
+It is the pillar of every program you will write in the future, so you will want to give this course more time. For this course, we will recommend you a video playlist of 29 videos.
+
+However, we recommend you to watch them up to the 13th because the rest of them are beyond OOP and if you are new to this, might be complex and difficult to understand.
+
+[C++ tutorial playlist (videos: 1-13)](https://www.youtube.com/playlist?list=PLGLfVvz_LVvQ9S8YSV0iDsuEU8v11yP9M)
 ## Semester3
 ## Semester4
 ## Semester5
